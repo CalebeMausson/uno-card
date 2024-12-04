@@ -1,0 +1,5 @@
+Começando pelas criações de pastas e organização das imagens. Foi difícil encontrar as imagens que ficassem boas pois eu não tinha muito conhecimento com o css e também tive dificuldade com ele mais para frente.
+Após isso utilizei videoaulas no youtube pois também não tinha conhecimento nenhum sobre html e ainda não foi ensinado no curso, ai fiz minhas modificações para deiar o código personalizado e não só igual no aula.
+Seguido disso, criei uma nova branch para casoocoresse algum erro e logo depois de finalizado eu fiz o merge com a branch principal "main"
+Assim que estava tudo pronto eu finalizei o "readme" e a "documentação", salvando e finalizando meu código.
+O uso do git ajudou na parte de não me deixar cometer erros no código principal e poder voltar com as branches que foram de muita ajuda.
